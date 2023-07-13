@@ -14,13 +14,15 @@ Coding caught my interest in 2021 in the middle of my Psychology degree and sinc
 
 Overall, I strive to become a developer that produces simple but great-quality code.  This is why I am currently looking for my first software developer role to work in collaboration with others at a company with the same values as mine.
 
+You can check out my portfolio here: https://abhishree-codes.github.io/
+
 ## <a name="stack">Tech Stack</a> 📚
 
 - JavaScript & currently learning TypeScript (React, Node.js, Express, MongoDB)
 - HTML, CSS, Chakra UI
 - Git
 
-You can check out my portfolio here: https://abhishree-codes.github.io/
+
 <!--
 **Abhishree-codes/Abhishree-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
