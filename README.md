@@ -20,7 +20,7 @@ Overall, I strive to become a developer that produces simple but great-quality c
 - HTML, CSS, Chakra UI
 - Git
 
-You can check out my portfolio here: https://abhishree-codes.github.io/)
+You can check out my portfolio here: https://abhishree-codes.github.io/
 <!--
 **Abhishree-codes/Abhishree-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
