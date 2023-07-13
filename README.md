@@ -8,7 +8,7 @@
 
 </div>
 
-Hey, my name is Abhishree Tripathi. I'm a [Masai School](https://www.masaischool.com/) student currently studying to become proficient in the MERN stack.
+Hi, my name is Abhishree Tripathi. I'm a [Masai School](https://www.masaischool.com/) student currently studying to become proficient in the MERN stack.
 
 Coding caught my interest in 2021 in the middle of my Psychology degree and since then I've been working towards beginning my career as a software developer. What excites me about creating software is the constant need for elegant problem-solving and potentially helping people in their daily-lives is an incredibly rewarding aspect as well. Equally, I'm looking forward to the life-long learning that comes with it, there will always be a cool new technology to get stuck into on the horizon! 
 
