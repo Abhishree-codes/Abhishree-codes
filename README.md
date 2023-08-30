@@ -2,7 +2,7 @@
 
 # Abhishree Tripathi
 
-<a href="https://abhishree-codes.github.io">
+<a href="https://abhishree-codes.github.io/">
   <img src="https://img.shields.io/badge/portfolio-blue?style=for-the-badge" alt="portfolio image"/>
 </a>
 
