@@ -4,10 +4,8 @@
 
 <a href="https://abhishree-codes.github.io/">
   <img src="https://img.shields.io/badge/portfolio-blue?style=for-the-badge" alt="https://abhishree-codes.github.io/"/>
+  <img src-"https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/abhishree-tripathi-7b419a17a/"/>
 </a>
-
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishree-tripathi-7b419a17a/)
-
 
 
 
