@@ -23,8 +23,11 @@ You can check out my portfolio <a href ="https://abhishree-codes.github.io/">her
 
 ## <a name="stack">Tech Stack</a> 📚
 
-- JavaScript & currently learning TypeScript (React, Node.js, Express, MongoDB)
-- HTML, CSS, Chakra UI
+- HTML5, CSS, JavaScript
+- React, Node.js, Express, MongoDB
+- TypeScript
+- Tailwind CSS, Chakra UI
+- Chart.js
 - Git
 
 
