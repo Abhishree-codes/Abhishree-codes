@@ -1,51 +1,21 @@
-<div align="center">
-
-# Abhishree Tripathi
-
-<a href="https://abhishree-codes.github.io/">
-  <img src="https://img.shields.io/badge/portfolio-blue?style=for-the-badge" alt="https://abhishree-codes.github.io/"/>
- 
-</a>
-<a href="https://www.linkedin.com/in/abhishree-tripathi-7b419a17a/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/abhishree-tripathi-7b419a17a/"/>
-</a>
+# 💫 About Me:
+🔭 I’m currently working on a black ops wiki built using react.<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning tailwind css and chart js<br>⚡ Fun fact: I like catching up on star wars lore in my free time and winding down with yoga at the end of the day :)<br>🌎 Portfolio - abhishree-codes.github.io
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishree-tripathi-7b419a17a) 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abhishree-codes&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishree-codes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishree-codes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abhishree-codes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Abhishree-codes&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-</div>
-
-Hi, my name is Abhishree Tripathi. I'm a Masai School student currently studying to become proficient in the MERN stack.
-
-Coding caught my interest in 2021 in the middle of my Psychology degree and since then I've been working towards beginning my career as a software developer. What excites me about creating software is the constant need for elegant problem-solving and potentially helping people in their daily-lives is an incredibly rewarding aspect as well. Equally, I'm looking forward to the life-long learning that comes with it, there will always be a cool new technology to get stuck into on the horizon :)
-
-Overall, I strive to become a developer that produces simple but great-quality code.  This is why I am currently looking for my first software developer role to work in collaboration with others at a company with the same values as mine.
-
-You can check out my portfolio <a href ="https://abhishree-codes.github.io/">here</a>
-
-## <a name="stack">Tech Stack</a> 📚
-
-- HTML5, CSS, JavaScript
-- React, Node.js, Express, MongoDB
-- TypeScript
-- Tailwind CSS, Chakra UI
-- Chart.js
-- Git
-
-
-<!--
-**Abhishree-codes/Abhishree-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
