@@ -1,4 +1,5 @@
 # 💫 About Me:
+✨ I'm an aspiring MERN developer.<br>
 🔭 I’m currently working on a black ops wiki built using react.<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning tailwind css and chart js<br>⚡ Fun fact: I like catching up on star wars lore in my free time and winding down with yoga at the end of the day :)<br>
 🌎 Portfolio - <a href="https://abhishree-codes.github.io" target="_blank">abhishree-codes.github.io</a>
 
